@@ -1,0 +1,6 @@
+#ifndef CLION_SNIPPET_LIBRARY_H
+#define CLION_SNIPPET_LIBRARY_H
+
+void hello(void);
+
+#endif //CLION_SNIPPET_LIBRARY_H
